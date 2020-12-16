@@ -51,7 +51,7 @@ Generated from machine readable version. Please **DO NOT** edit this file direct
         "category": "sod-matrix",
         "description": "SOD Matrix",
         "name": "sod-matrix",
-        "source": "https://github.com/cudeso/SoD-Matrix",
+        "source": "https://github.com/enisaeu/CSIRTLEA//SoD-Matrix",
         "type": "sod-matrix",
         "uuid": "%s",
         "values": [
